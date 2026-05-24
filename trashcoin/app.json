@@ -1,26 +1,26 @@
 {
   "expo": {
-    "name": "trashcoin",
-    "slug": "snack-251d86a2-a378-45a9-93b7-b936fcc63dea",
+    "name": "Trashcoin",
+    "slug": "trashcoin",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mhaiba.trashcoin"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "package": "com.mhaiba.trashcoin"
     },
     "web": {
       "favicon": "./assets/favicon.png"
