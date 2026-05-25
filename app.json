@@ -8,6 +8,11 @@
     },
     "android": {
       "package": "com.mhaiba.trashcoin"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6090eff8-58dc-4a01-928f-89a8d7cb5d5f"
+      }
     }
   }
 }
